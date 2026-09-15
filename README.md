@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dery</h1>
-<h3 align="center">Java Backend Developer | AppSec & DevSecOps in transition</h3>
+<h3 align="center">Java Backend Developer | AppSec & DevSecOps Focused</h3>
 
 <p align="center">
   I build backend systems with Java|Spring|Angular and I'm now focused on making them secure by design.
@@ -15,7 +15,7 @@
 
 👩‍💻 About me
 - 3+ years as a **Java Backend Developer** (Spring Boot, REST APIs, Angular/TypeScript)
-- Currently transitioning to **AppSec / DevSecOps**
+- Pleno-level autonomy in Java, now focused on **AppSec & DevSecOps**
 - Learning and practicing: **OWASP Top 10, SAST, SCA, DAST, secrets scanning, container scanning, CI/CD security**
  
 
